@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{rural-bridge.surge.sh}">
+    <a href="https://rural-bridge.surge.sh">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/jpotvin-ezpz/interior-consultant}">
+    <a href="https://github.com/jpotvin-ezpz/interior-consultant">
       Solution
     </a>
     <span> | </span>
